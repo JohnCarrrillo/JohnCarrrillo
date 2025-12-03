@@ -114,7 +114,7 @@
       <p align="center">
         <img src="chasquibus.gif"
        alt="chasquibus - John Carrillo"
-       style="width:100%; max-height:220px; object-fit:cover; border-radius:8px;">
+       style="width:100%; max-height:20px; object-fit:cover; border-radius:8px;">
 </p>
       
       <p>Aplicación móvil construida con React Native y Expo para apoyar a los choferes de buses en la gestión de rutas, pasajeros y boletos. Incluye pantalla de inicio, listado de rutas, detalle de asientos y escaneo de códigos QR.</p>
