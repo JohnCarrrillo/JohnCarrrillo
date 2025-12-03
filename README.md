@@ -24,7 +24,7 @@
   <tr>
     <td>
 
-- 👨‍💻 Desarrollador de software con interés en el ecosistema web y móvil moderno.  
+- 💻 Desarrollador de software con interés en el ecosistema web y móvil moderno.  
 - 🚀 Me gusta crear aplicaciones completas: **Frontend + Backend + Bases de datos**.  
 - 🤖 Curioso por la **IA generativa, automatización y ciencia de datos**.  
 - 📱 He trabajado en apps móviles para cafeterías y sistemas de transporte.  
@@ -33,14 +33,13 @@
 
     </td>
     <td align="center" width="260">
-
       <img src="pug.png"
            alt="Mascota pug saludando"
            style="max-width:230px; border-radius:16px;">
-
     </td>
   </tr>
 </table>
+
 
 ---
 
