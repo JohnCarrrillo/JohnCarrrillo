@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="https://via.placeholder.com/1200x300?text=John+Carrillo+-+Desarrollador+Full+Stack" 
+  <img src="banner-github.png" 
        alt="Banner - John Carrillo" width="100%">
 </p>
 
@@ -17,95 +17,103 @@
 
 ## 🙋‍♂️ Sobre mí
 
-- 👨‍💻 Desarrollador de software con interés en el ecosistema web y la programación moderna.
-- 🚀 Me gusta crear aplicaciones completas: **Frontend + Backend + Bases de datos**.
-- 🤖 Curioso por la **IA generativa, automatización y ciencia de datos**.
+- 👨‍💻 Desarrollador de software con interés en el ecosistema web y móvil moderno.
+- 🚀 Me gusta crear aplicaciones completas: <b>Frontend + Backend + Bases de datos</b>.
+- 🤖 Curioso por la <b>IA generativa, automatización y ciencia de datos</b>.
+- 📱 He trabajado en apps móviles para cafeterías y sistemas de transporte.
 - 🌱 Siempre aprendiendo nuevas tecnologías y buenas prácticas de desarrollo.
-- 🤝 Abierto a colaborar en proyectos open source y trabajos en equipo.
+- 🤝 Abierto a colaborar en proyectos académicos, profesionales y open source.
 
 ---
 
 ## 🌐 Social
 
 <p>
-  <!-- Cambia los enlaces por los tuyos reales -->
-  <a href="mailto:tu_correo@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <a href="mailto:carrilloporano.john2000@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-carrilloporano.john2000%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
+  <!-- Cambia estos enlaces cuando tengas LinkedIn y portafolio -->
   <a href="https://www.linkedin.com/in/tu-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-Pendiente-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://tu-portafolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portafolio-111827?style=for-the-badge&logo=vercel&logoColor=white">
+    <img src="https://img.shields.io/badge/Portafolio-Personal-111827?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
 </p>
 
 ---
 
-## 🛠️ Habilidades
+## 🛠️ Tech Stack
 
 ### 🔹 Frontend
-- HTML · CSS · JavaScript  
-- (Agrega aquí: React, Angular, Vue, etc. si los usas)
+- HTML · CSS · JavaScript
+- Ionic React · React · (y otros que uses)
+
+### 🔹 Mobile
+- Ionic + Capacitor
+- React Native / Expo
 
 ### 🔹 Backend
-- Node.js · PHP · Python  
-- (Agrega aquí frameworks como Express, Laravel, Django, etc.)
+- Node.js
+- (Agrega aquí frameworks como Express, Nest, etc. si los usas)
 
 ### 🔹 Bases de datos
-- MySQL · PostgreSQL · SQL Server · (u otras que manejes)
+- MySQL · PostgreSQL  
+- (Añade otras que manejes)
 
 ### 🔹 Otras herramientas
-- Git & GitHub · Docker · Linux · Figma
+- Git & GitHub · Linux · Docker · Figma
 
 <p align="center">
   <!-- Ajusta los iconos según tus skills reales -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nodejs,php,py,java,mysql,postgres,git,github,docker,figma,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,android,git,github,docker,linux,figma" />
 </p>
 
 ---
 
 ## 📂 Proyectos destacados
 
-<!-- Cambia los enlaces por repos reales de tu cuenta JohnCarrillo -->
-
 <table>
   <tr>
     <td width="50%">
-      <h3>Proyecto 1 – Nombre del Sistema</h3>
-      <p>Breve descripción de lo que hace este proyecto, para qué sirve y qué tecnologías usaste.</p>
+      <h3>☕ Kaffecito – App móvil de pedidos para cafetería</h3>
+      <p>Aplicación móvil desarrollada con Ionic React y TypeScript para gestionar pedidos en una cafetería. Permite a los meseros iniciar sesión, ver categorías de productos, armar un carrito y enviar pedidos al backend.</p>
+      <p><b>Tecnologías:</b> Ionic · React · TypeScript · TailwindCSS · Capacitor</p>
       <p>
-        <a href="https://github.com/JohnCarrillo/PROYECTO_1" target="_blank">
-          <img src="https://img.shields.io/badge/VER%20EN%20GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=white">
+        <a href="https://github.com/JohnCarrrillo/appMovilKaffecito" target="_blank">
+          <img src="https://img.shields.io/badge/Ver%20proyecto%20en%20GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white">
         </a>
       </p>
     </td>
     <td width="50%">
-      <h3>Proyecto 2 – Nombre del Sistema</h3>
-      <p>Otra aplicación interesante que muestre tu manejo de frontend, backend o IA.</p>
+      <h3>🚌 Chasquibus – App móvil para choferes</h3>
+      <p>Aplicación móvil construida con React Native y Expo para apoyar a los choferes de buses en la gestión de rutas, pasajeros y boletos. Incluye pantalla de inicio, listado de rutas, detalle de asientos y escaneo de códigos QR.</p>
+      <p><b>Tecnologías:</b> React Native · Expo · Expo Router · Context API</p>
       <p>
-        <a href="https://github.com/JohnCarrillo/PROYECTO_2" target="_blank">
-          <img src="https://img.shields.io/badge/VER%20EN%20GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=white">
+        <a href="https://github.com/JohnCarrrillo/chasquibus-movil-chofer-front" target="_blank">
+          <img src="https://img.shields.io/badge/Ver%20proyecto%20en%20GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white">
         </a>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>Proyecto 3 – Nombre del Sistema</h3>
-      <p>Sistema, API o dashboard que quieras destacar (por ejemplo, algo para la universidad o trabajo).</p>
+      <h3>📊 Proyecto 3 – Sistema / Dashboard</h3>
+      <p>Sistema, API o dashboard que quieras destacar (por ejemplo, un proyecto universitario o profesional donde apliques buenas prácticas de desarrollo).</p>
+      <p><b>Tecnologías:</b> (rellena aquí según el proyecto)</p>
       <p>
-        <a href="https://github.com/JohnCarrillo/PROYECTO_3" target="_blank">
-          <img src="https://img.shields.io/badge/VER%20EN%20GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=white">
+        <a href="https://github.com/JohnCarrrillo/NOMBRE_REPO_3" target="_blank">
+          <img src="https://img.shields.io/badge/Ver%20proyecto%20en%20GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white">
         </a>
       </p>
     </td>
     <td width="50%">
-      <h3>Proyecto 4 – Nombre del Sistema</h3>
-      <p>Proyecto personal, experimento con IA, microservicios, etc.</p>
+      <h3>🧪 Proyecto 4 – Experimentos / IA / Otros</h3>
+      <p>Espacio para algún proyecto personal, experimento con IA, microservicios o algo que muestre tu curiosidad y aprendizaje continuo.</p>
+      <p><b>Tecnologías:</b> (rellena aquí)</p>
       <p>
-        <a href="https://github.com/JohnCarrillo/PROYECTO_4" target="_blank">
-          <img src="https://img.shields.io/badge/VER%20EN%20GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=white">
+        <a href="https://github.com/JohnCarrrillo/NOMBRE_REPO_4" target="_blank">
+          <img src="https://img.shields.io/badge/Ver%20proyecto%20en%20GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white">
         </a>
       </p>
     </td>
@@ -117,16 +125,20 @@
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JohnCarrillo&show_icons=true&theme=radical" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnCarrillo&layout=compact&theme=radical" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=JohnCarrrillo&show_icons=true&theme=radical" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnCarrrillo&layout=compact&theme=radical" height="150">
 </p>
 
 ---
 
 ## 📫 Contacto
 
-- 📧 Correo: **tu_correo@gmail.com**  
-- 💼 LinkedIn: [Tu LinkedIn](https://www.linkedin.com/in/tu-linkedin)  
-- 🌍 Portafolio: **https://tu-portafolio.com**
+- 📧 Correo: <b>carrilloporano.john2000@gmail.com</b>  
+- 💼 LinkedIn: (pendiente de agregar)  
+- 🌍 Portafolio: (cuando tengas una web personal, colócala aquí)
 
 > ✨ “El mejor código es el que hoy parece imposible, pero mañana se vuelve tu nuevo estándar.”
+
+<p align="center">
+  Gracias por visitar mi perfil 💙  
+</p>
