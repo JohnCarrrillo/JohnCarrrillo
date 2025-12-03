@@ -112,7 +112,7 @@
 
 - 📧 Correo: <b>carrilloporano.john2000@gmail.com</b>  
 - 💼 LinkedIn: <b>https://www.linkedin.com/in/john-carrillo-880424215/</b> 
-- 🌍 Portafolio: se añadirá cuando esté disponible  
+- 🌍 Portafolio:  <b>https://portafolio-pacman.vercel.app/ </b>
 
 > ✨ “El mejor código es el que hoy parece imposible, pero mañana se vuelve tu nuevo estándar.”
 
