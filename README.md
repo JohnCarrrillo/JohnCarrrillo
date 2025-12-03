@@ -47,10 +47,10 @@
 
 <p>
   <a href="mailto:carrilloporano.john2000@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-carrilloporano.john2000%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Gmail-JohnCarrillo-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/john-carrillo-880424215/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Pendiente-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-JohnCarrillo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://tu-portafolio.com" target="_blank">
     <img src="https://img.shields.io/badge/Portafolio-Personal-111827?style=for-the-badge&logo=vercel&logoColor=white">
