@@ -49,7 +49,7 @@
   <a href="mailto:carrilloporano.john2000@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-carrilloporano.john2000%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/tu-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/john-carrillo-880424215/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Pendiente-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://tu-portafolio.com" target="_blank">
@@ -91,41 +91,9 @@
 
 ## 📂 Proyectos destacados
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>☕ Kaffecito – App móvil de pedidos para cafetería</h3>
-      <p align="center">
-        <img src="kaffecito.jpg"
-             alt="Pantalla principal de la app Kaffecito"
-             style="width:100%; max-height:220px; object-fit:cover; border-radius:8px;">
-      </p>
-      <p>Aplicación móvil desarrollada con Ionic React y TypeScript para gestionar pedidos en una cafetería. Permite a los meseros iniciar sesión, ver categorías de productos, armar un carrito y enviar pedidos al backend.</p>
-      <p><b>Tecnologías:</b> Ionic · React · TypeScript · TailwindCSS · Capacitor</p>
-      <p>
-        <a href="https://github.com/JohnCarrrillo/appMovilKaffecito" target="_blank">
-          <img src="https://img.shields.io/badge/Ver%20proyecto%20en%20GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white">
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3>🚌 Chasquibus – App móvil para choferes</h3>
-      <p align="center">
-        <img src="chasquibus.gif"
-       alt="chasquibus - John Carrillo"
-       style="width:100%; max-height:20px; object-fit:cover; border-radius:8px;">
-</p>
-      
-      <p>Aplicación móvil construida con React Native y Expo para apoyar a los choferes de buses en la gestión de rutas, pasajeros y boletos. Incluye pantalla de inicio, listado de rutas, detalle de asientos y escaneo de códigos QR.</p>
-      <p><b>Tecnologías:</b> React Native · Expo · Expo Router · Context API</p>
-      <p>
-        <a href="https://github.com/JohnCarrrillo/chasquibus-movil-chofer-front" target="_blank">
-          <img src="https://img.shields.io/badge/Ver%20proyecto%20en%20GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white">
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
+| ☕ Kaffecito – App móvil de pedidos para cafetería | 🚌 Chasquibus – App móvil para choferes |
+| -------------------------------------------------- | --------------------------------------- |
+| <p align="center"><img src="kaffecito.jpg" alt="Pantalla principal de la app Kaffecito" style="max-width:250px; height:auto; border-radius:16px;"></p><p>Aplicación móvil desarrollada con Ionic React y TypeScript para gestionar pedidos en una cafetería. Permite a los meseros iniciar sesión, ver categorías de productos, armar un carrito y enviar pedidos al backend.</p><p><b>Tecnologías:</b> Ionic · React · TypeScript · TailwindCSS · Capacitor</p><p><a href="https://github.com/JohnCarrrillo/appMovilKaffecito" target="_blank"><img src="https://img.shields.io/badge/Ver%20proyecto%20en%20GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"></a></p> | <p align="center"><img src="chasquibus.gif" alt="Pantalla principal de la app Chasquibus" style="max-width:250px; height:250px; border-radius:16px;"></p><p>Aplicación móvil construida con React Native y Expo para apoyar a los choferes de buses en la gestión de rutas, pasajeros y boletos. Incluye pantalla de inicio, listado de rutas, detalle de asientos y escaneo de códigos QR.</p><p><b>Tecnologías:</b> React Native · Expo · Expo Router · Context API</p><p><a href="https://github.com/JohnCarrrillo/chasquibus-movil-chofer-front" target="_blank"><img src="https://img.shields.io/badge/Ver%20proyecto%20en%20GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"></a></p> |
 
 
 ---
@@ -143,7 +111,7 @@
 ## 📫 Contacto
 
 - 📧 Correo: <b>carrilloporano.john2000@gmail.com</b>  
-- 💼 LinkedIn: se añadirá próximamente  
+- 💼 LinkedIn: <b>https://www.linkedin.com/in/john-carrillo-880424215/</b> 
 - 🌍 Portafolio: se añadirá cuando esté disponible  
 
 > ✨ “El mejor código es el que hoy parece imposible, pero mañana se vuelve tu nuevo estándar.”
