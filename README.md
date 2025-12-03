@@ -122,6 +122,14 @@
 
 ---
 
+## 🎓 Insignias Cisco
+
+<p>
+  <img src="dataScience.png" alt="Cisco Data Science Essentials with Python" width="140">
+  <img src="javaScript.png" alt="Cisco JavaScript Essentials 1" width="140">
+</p>
+
+
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
