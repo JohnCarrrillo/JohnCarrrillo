@@ -81,6 +81,11 @@
   <tr>
     <td width="50%">
       <h3>☕ Kaffecito – App móvil de pedidos para cafetería</h3>
+      <p align="center">
+        <img src="kaffecito.png"
+             alt="Pantalla principal de la app Kaffecito"
+             style="width:100%; max-height:220px; object-fit:cover; border-radius:8px;">
+      </p>
       <p>Aplicación móvil desarrollada con Ionic React y TypeScript para gestionar pedidos en una cafetería. Permite a los meseros iniciar sesión, ver categorías de productos, armar un carrito y enviar pedidos al backend.</p>
       <p><b>Tecnologías:</b> Ionic · React · TypeScript · TailwindCSS · Capacitor</p>
       <p>
@@ -91,6 +96,11 @@
     </td>
     <td width="50%">
       <h3>🚌 Chasquibus – App móvil para choferes</h3>
+      <p align="center">
+        <img src="chasquibus.png"
+             alt="Pantalla principal de la app Chasquibus"
+             style="width:100%; max-height:220px; object-fit:cover; border-radius:8px;">
+      </p>
       <p>Aplicación móvil construida con React Native y Expo para apoyar a los choferes de buses en la gestión de rutas, pasajeros y boletos. Incluye pantalla de inicio, listado de rutas, detalle de asientos y escaneo de códigos QR.</p>
       <p><b>Tecnologías:</b> React Native · Expo · Expo Router · Context API</p>
       <p>
@@ -101,6 +111,7 @@
     </td>
   </tr>
 </table>
+
 
 ---
 
@@ -115,10 +126,10 @@
 
 ## 📊 Estadísticas de GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JohnCarrrillo&show_icons=true&theme=radical" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnCarrrillo&layout=compact&theme=radical" height="150">
-</p>
+[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=JohnCarrrillo&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnCarrrillo&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ---
 
