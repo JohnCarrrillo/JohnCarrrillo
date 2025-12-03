@@ -52,7 +52,7 @@
   <a href="https://www.linkedin.com/in/john-carrillo-880424215/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-JohnCarrillo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://tu-portafolio.com" target="_blank">
+  <a href="https://portafolio-pacman.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portafolio-Personal-111827?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
 </p>
