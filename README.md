@@ -82,7 +82,7 @@
     <td width="50%">
       <h3>☕ Kaffecito – App móvil de pedidos para cafetería</h3>
       <p align="center">
-        <img src="kaffecito.png"
+        <img src="kaffecito.jpg"
              alt="Pantalla principal de la app Kaffecito"
              style="width:100%; max-height:220px; object-fit:cover; border-radius:8px;">
       </p>
