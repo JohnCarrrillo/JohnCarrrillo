@@ -6,7 +6,7 @@
 </p>
 
 <h1 align="center" style="font-size:2.4rem; margin-top:16px;">
-  Hi 👋, soy John Carrillo
+  Hola, soy John Carrillo
 </h1>
 <p align="center">
   <b>Desarrollador Full Stack · Apasionado por la tecnología y el aprendizaje continuo</b>
@@ -93,7 +93,7 @@
 
 | ☕ Kaffecito – App móvil de pedidos para cafetería | 🚌 Chasquibus – App móvil para choferes |
 | -------------------------------------------------- | --------------------------------------- |
-| <p align="center"><img src="kaffecito.jpg" alt="Pantalla principal de la app Kaffecito" style="max-width:250px; height:auto; border-radius:16px;"></p><p>Aplicación móvil desarrollada con Ionic React y TypeScript para gestionar pedidos en una cafetería. Permite a los meseros iniciar sesión, ver categorías de productos, armar un carrito y enviar pedidos al backend.</p><p><b>Tecnologías:</b> Ionic · React · TypeScript · TailwindCSS · Capacitor</p><p><a href="https://github.com/JohnCarrrillo/appMovilKaffecito" target="_blank"><img src="https://img.shields.io/badge/Ver%20proyecto%20en%20GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"></a></p> | <p align="center"><img src="chasquibus.gif" alt="Pantalla principal de la app Chasquibus" style="max-width:250px; height:250px; border-radius:16px;"></p><p>Aplicación móvil construida con React Native y Expo para apoyar a los choferes de buses en la gestión de rutas, pasajeros y boletos. Incluye pantalla de inicio, listado de rutas, detalle de asientos y escaneo de códigos QR.</p><p><b>Tecnologías:</b> React Native · Expo · Expo Router · Context API</p><p><a href="https://github.com/JohnCarrrillo/chasquibus-movil-chofer-front" target="_blank"><img src="https://img.shields.io/badge/Ver%20proyecto%20en%20GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"></a></p> |
+| <p align="center"><img src="kaffecito.gif" alt="Pantalla principal de la app Kaffecito" style="max-width:250px; height:250px; border-radius:16px;"></p><p>Aplicación móvil desarrollada con Ionic React y TypeScript para gestionar pedidos en una cafetería. Permite a los meseros iniciar sesión, ver categorías de productos, armar un carrito y enviar pedidos al backend.</p><p><b>Tecnologías:</b> Ionic · React · TypeScript · TailwindCSS · Capacitor</p><p><a href="https://github.com/JohnCarrrillo/appMovilKaffecito" target="_blank"><img src="https://img.shields.io/badge/Ver%20proyecto%20en%20GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"></a></p> | <p align="center"><img src="chasquibus.gif" alt="Pantalla principal de la app Chasquibus" style="max-width:250px; height:250px; border-radius:16px;"></p><p>Aplicación móvil construida con React Native y Expo para apoyar a los choferes de buses en la gestión de rutas, pasajeros y boletos. Incluye pantalla de inicio, listado de rutas, detalle de asientos y escaneo de códigos QR.</p><p><b>Tecnologías:</b> React Native · Expo · Expo Router · Context API</p><p><a href="https://github.com/JohnCarrrillo/chasquibus-movil-chofer-front" target="_blank"><img src="https://img.shields.io/badge/Ver%20proyecto%20en%20GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"></a></p> |
 
 
 ---
