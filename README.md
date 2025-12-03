@@ -1,13 +1,9 @@
 <!-- BANNER -->
 <p align="center">
-  <video src="banner.mp4" 
-         autoplay
-         loop
-         muted
-         playsinline
-         style="width: 100%; border-radius: 8px;">
-  </video>
+  <img src="banner.gif" 
+       alt="Banner - John Carrillo" width="100%">
 </p>
+
 
 <h1 align="center">Hi 👋, soy John Carrillo</h1>
 <p align="center">
