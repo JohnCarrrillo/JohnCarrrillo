@@ -61,27 +61,47 @@
 
 ## 🛠️ Stack tecnológico
 
+<table>
+  <tr>
+    <!-- Columna izquierda: texto -->
+    <td valign="top">
+
 ### 🔹 Frontend
-- HTML · CSS · JavaScript
-- React · Ionic React
+- HTML · CSS · JavaScript  
+- React · Ionic React  
 
 ### 🔹 Mobile
-- Ionic + Capacitor
-- React Native · Expo
+- Ionic + Capacitor  
+- React Native · Expo  
 
 ### 🔹 Backend
-- Node.js para APIs REST
-- Java (Spring Boot)
+- Node.js para APIs REST  
+- Java (Spring Boot)  
 
 ### 🔹 Bases de datos
-- MySQL
-- PostgreSQL
+- MySQL  
+- PostgreSQL  
 
 ### 🔹 Otras herramientas
-- Git & GitHub
-- Linux
-- Docker
-- Figma
+- Git & GitHub  
+- Linux  
+- Docker  
+- Figma  
+
+    </td>
+
+    <!-- Columna derecha: GIF -->
+    <td valign="middle" align="center" width="260">
+
+      <img src="Skills_Animation_White.gif"
+           alt="Animación de logos de tecnologías"
+           width="260">
+      <br/>
+      <sub>Principales tecnologías con las que trabajo</sub>
+
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,android,git,github,docker,linux,figma" />
