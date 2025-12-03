@@ -62,50 +62,45 @@
 ## 🛠️ Stack tecnológico
 
 <table>
-  <tr>
-    <!-- Columna izquierda: texto -->
-    <td valign="top">
+<tr>
+  <!-- Columna izquierda: texto -->
+  <td valign="top" width="40%">
 
-### 🔹 Frontend
-- HTML · CSS · JavaScript  
-- React · Ionic React  
+  ### 🔹 Frontend
+  - HTML · CSS · JavaScript  
+  - React · Ionic React  
 
-### 🔹 Mobile
-- Ionic + Capacitor  
-- React Native · Expo  
+  ### 🔹 Mobile
+  - Ionic + Capacitor  
+  - React Native · Expo  
 
-### 🔹 Backend
-- Node.js para APIs REST  
-- Java (Spring Boot)  
+  ### 🔹 Backend
+  - Node.js para APIs REST  
+  - Java (Spring Boot)  
 
-### 🔹 Bases de datos
-- MySQL  
-- PostgreSQL  
+  ### 🔹 Bases de datos
+  - MySQL  
+  - PostgreSQL  
 
-### 🔹 Otras herramientas
-- Git & GitHub  
-- Linux  
-- Docker  
-- Figma  
+  ### 🔹 Otras herramientas
+  - Git & GitHub  
+  - Linux  
+  - Docker  
+  - Figma  
 
-    </td>
+  </td>
 
-    <!-- Columna derecha: GIF -->
-    <td valign="middle" align="center" width="260">
+  <!-- Columna derecha: GIF -->
+  <td valign="middle" align="center" width="85%">
 
-      <img src="Skills_Animation_White.gif"
-           alt="Animación de logos de tecnologías"
-           width="260">
-      <br/>
-      <sub>Principales tecnologías con las que trabajo</sub>
+  <img src="Skills_Animation_White.gif"
+       alt="Animación de logos de tecnologías"
+       width="920" /><br/>
+  <sub>Principales tecnologías con las que trabajo</sub>
 
-    </td>
-  </tr>
+  </td>
+</tr>
 </table>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,android,git,github,docker,linux,figma" />
-</p>
 
 ---
 
