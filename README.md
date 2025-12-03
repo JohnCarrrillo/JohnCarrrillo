@@ -1,7 +1,12 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="banner-github.png" 
-       alt="Banner - John Carrillo" width="100%">
+  <video src="banner.mp4" 
+         autoplay
+         loop
+         muted
+         playsinline
+         style="width: 100%; border-radius: 8px;">
+  </video>
 </p>
 
 <h1 align="center">Hi 👋, soy John Carrillo</h1>
