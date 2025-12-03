@@ -1,8 +1,10 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="banner.gif" 
-       alt="Banner - John Carrillo" width="100%">
+  <img src="banner.gif"
+       alt="Banner - John Carrillo"
+       style="width:100%; max-height:260px; object-fit:cover;">
 </p>
+
 
 
 <h1 align="center">Hi 👋, soy John Carrillo</h1>
