@@ -5,9 +5,9 @@
        style="width:100%; max-height:260px; object-fit:cover;">
 </p>
 
-
-
-<h1 align="center">Hi 👋, soy John Carrillo</h1>
+<h1 align="center" style="font-size:2.4rem; margin-top:16px;">
+  Hi 👋, soy John Carrillo
+</h1>
 <p align="center">
   <b>Desarrollador Full Stack · Apasionado por la tecnología y el aprendizaje continuo</b>
 </p>
@@ -29,13 +29,12 @@
 
 ---
 
-## 🌐 Social
+## 🌐 Redes
 
 <p>
   <a href="mailto:carrilloporano.john2000@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-carrilloporano.john2000%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <!-- Cambia estos enlaces cuando tengas LinkedIn y portafolio -->
   <a href="https://www.linkedin.com/in/tu-linkedin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Pendiente-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
@@ -46,29 +45,31 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Stack tecnológico
 
 ### 🔹 Frontend
 - HTML · CSS · JavaScript
-- Ionic React · React · (y otros que uses)
+- React · Ionic React
 
 ### 🔹 Mobile
 - Ionic + Capacitor
-- React Native / Expo
+- React Native · Expo
 
 ### 🔹 Backend
-- Node.js
-- (Agrega aquí frameworks como Express, Nest, etc. si los usas)
+- Node.js para APIs REST
+- Java (Spring Boot)
 
 ### 🔹 Bases de datos
-- MySQL · PostgreSQL  
-- (Añade otras que manejes)
+- MySQL
+- PostgreSQL
 
 ### 🔹 Otras herramientas
-- Git & GitHub · Linux · Docker · Figma
+- Git & GitHub
+- Linux
+- Docker
+- Figma
 
 <p align="center">
-  <!-- Ajusta los iconos según tus skills reales -->
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,android,git,github,docker,linux,figma" />
 </p>
 
@@ -99,39 +100,18 @@
       </p>
     </td>
   </tr>
-  <tr>
-    <td width="50%">
-      <h3>📊 Proyecto 3 – Sistema / Dashboard</h3>
-      <p>Sistema, API o dashboard que quieras destacar (por ejemplo, un proyecto universitario o profesional donde apliques buenas prácticas de desarrollo).</p>
-      <p><b>Tecnologías:</b> (rellena aquí según el proyecto)</p>
-      <p>
-        <a href="https://github.com/JohnCarrrillo/NOMBRE_REPO_3" target="_blank">
-          <img src="https://img.shields.io/badge/Ver%20proyecto%20en%20GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white">
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3>🧪 Proyecto 4 – Experimentos / IA / Otros</h3>
-      <p>Espacio para algún proyecto personal, experimento con IA, microservicios o algo que muestre tu curiosidad y aprendizaje continuo.</p>
-      <p><b>Tecnologías:</b> (rellena aquí)</p>
-      <p>
-        <a href="https://github.com/JohnCarrrillo/NOMBRE_REPO_4" target="_blank">
-          <img src="https://img.shields.io/badge/Ver%20proyecto%20en%20GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white">
-        </a>
-      </p>
-    </td>
-  </tr>
 </table>
 
 ---
 
-## 🎓 Insignias Cisco
+## 🎓 Insignias y certificaciones Cisco
 
 <p>
   <img src="dataScience.png" alt="Cisco Data Science Essentials with Python" width="140">
   <img src="javaScript.png" alt="Cisco JavaScript Essentials 1" width="140">
 </p>
 
+---
 
 ## 📊 Estadísticas de GitHub
 
@@ -145,11 +125,11 @@
 ## 📫 Contacto
 
 - 📧 Correo: <b>carrilloporano.john2000@gmail.com</b>  
-- 💼 LinkedIn: (pendiente de agregar)  
-- 🌍 Portafolio: (cuando tengas una web personal, colócala aquí)
+- 💼 LinkedIn: se añadirá próximamente  
+- 🌍 Portafolio: se añadirá cuando esté disponible  
 
 > ✨ “El mejor código es el que hoy parece imposible, pero mañana se vuelve tu nuevo estándar.”
 
 <p align="center">
-  Gracias por visitar mi perfil 💙  
+  Gracias por visitar mi perfil
 </p>
