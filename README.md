@@ -20,12 +20,27 @@
 
 ## 🙋‍♂️ Sobre mí
 
-- 👨‍💻 Desarrollador de software con interés en el ecosistema web y móvil moderno.
-- 🚀 Me gusta crear aplicaciones completas: <b>Frontend + Backend + Bases de datos</b>.
-- 🤖 Curioso por la <b>IA generativa, automatización y ciencia de datos</b>.
-- 📱 He trabajado en apps móviles para cafeterías y sistemas de transporte.
-- 🌱 Siempre aprendiendo nuevas tecnologías y buenas prácticas de desarrollo.
-- 🤝 Abierto a colaborar en proyectos académicos, profesionales y open source.
+<table>
+  <tr>
+    <td>
+
+- 👨‍💻 Desarrollador de software con interés en el ecosistema web y móvil moderno.  
+- 🚀 Me gusta crear aplicaciones completas: **Frontend + Backend + Bases de datos**.  
+- 🤖 Curioso por la **IA generativa, automatización y ciencia de datos**.  
+- 📱 He trabajado en apps móviles para cafeterías y sistemas de transporte.  
+- 🌱 Siempre aprendiendo nuevas tecnologías y buenas prácticas de desarrollo.  
+- 🤝 Abierto a colaborar en proyectos académicos, profesionales y open source.  
+
+    </td>
+    <td align="center" width="260">
+
+      <img src="pug.png"
+           alt="Mascota pug saludando"
+           style="max-width:230px; border-radius:16px;">
+
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -97,10 +112,11 @@
     <td width="50%">
       <h3>🚌 Chasquibus – App móvil para choferes</h3>
       <p align="center">
-        <img src="chasquibus.png"
-             alt="Pantalla principal de la app Chasquibus"
-             style="width:100%; max-height:220px; object-fit:cover; border-radius:8px;">
-      </p>
+        <img src="chasquibus.gif"
+       alt="chasquibus - John Carrillo"
+       style="width:100%; max-height:220px; object-fit:cover; border-radius:8px;">
+</p>
+      
       <p>Aplicación móvil construida con React Native y Expo para apoyar a los choferes de buses en la gestión de rutas, pasajeros y boletos. Incluye pantalla de inicio, listado de rutas, detalle de asientos y escaneo de códigos QR.</p>
       <p><b>Tecnologías:</b> React Native · Expo · Expo Router · Context API</p>
       <p>
